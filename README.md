@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Gurubhaskar Kurcheti  
 
-<!--
-**KurchetiGurubhaskar/KurchetiGurubhaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Python Full Stack Developer | Fresher | Electronics & Communication Engineer**  
 
-Here are some ideas to get you started:
+![Profile Banner](https://img.shields.io/badge/Python-FullStack-blue?style=for-the-badge&logo=python)
+![GitHub followers](https://img.shields.io/github/followers/gurubhaskar?style=social)
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+- 🎓 Electronics & Communication Engineering graduate from **Usha Rama College of Engineering & Technology** (CGPA: 7.75)  
+- 💻 Passionate about **Python, Full Stack Web Development, SQL, and Blockchain concepts**  
+- 🌱 Currently improving skills in **React, API integration, and advanced backend development**  
+- 🤝 Open to **entry-level software developer roles**  
+
+---
+
+## 🛠 Skills  
+
+- **Languages:** Python, HTML, CSS, JavaScript  
+- **Frameworks & Libraries:** React,django  
+- **Database:** SQL  
+- **Tools:** Git, MATLAB, Multisim, Arduino IDE, MS Office  
+- **Concepts:** Blockchain, Embedded Systems, Testing & Validation  
+
+---
+
+## 📂 Projects  
+
+### 🔑 Decentralized Access Control with Blockchain  
+- **Role:** Developer | **Duration:** Nov 2024 – Apr 2025 | **Team Size:** 4  
+- Developed backend logic in Python for blockchain-based smart lock authorization  
+- Integrated SEAM API sandbox to simulate lock environments  
+- Built a basic frontend using HTML, CSS, and JS  
+- Participated in design discussions and real-time validation  
+
+---
+
+## 💼 Experience  
+
+**Embedded Systems Intern** – *Karthikeya Software Solutions Pvt. Ltd., Tirupati*  
+📅 Nov 2024 – June 2025  
+- Worked on embedded system design and real-time signal testing  
+- Gained circuit debugging experience & hardware-software interfacing with Arduino  
+
+---
+
+## 🎓 Education  
+
+- **B.Tech, Electronics & Communication Engineering** – Usha Rama College (2021–2025) | CGPA: 7.75  
+- **Intermediate, MPC** – Sri Chaitanya Junior College (2019–2021) | 84.3%  
+- **SSC** – AP Model School (2018–2019) | GPA: 7.0  
+
+---
+
+## 🌐 Connect with Me  
+
+- 📧 **Email:** gurubhaskarkurcheti@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/gurubhaskar-kurcheti-a5a684316](https://www.linkedin.com/in/gurubhaskar-kurcheti-a5a684316)  
+   
+
+---
+
+⭐️ From [Gurubhaskar Kurcheti](https://github.com/gurubhaskar)
