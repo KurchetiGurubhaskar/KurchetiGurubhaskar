@@ -19,10 +19,11 @@
 ## 🛠 Skills  
 
 - **Languages:** Python, HTML, CSS, JavaScript  
-- **Frameworks & Libraries:** React,django  
+- **Frameworks & Libraries:** React,django ,Boostrap 
 - **Database:** SQL  
-- **Tools:** Git, MATLAB, Multisim, Arduino IDE, MS Office  
-- **Concepts:** Blockchain, Embedded Systems, Testing & Validation  
+- **Tools:** Git, VS code, MS Office ,
+- **AI Tools :Prplexity,Gamma,Notion,Bolt,Lovable,Cursor,emegent,Replit,
+- 
 
 ---
 
