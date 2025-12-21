@@ -49,7 +49,7 @@
 
 ## 🎓 Education  
 
-- **B.Tech, Electronics & Communication Engineering** – Usha Rama College (2021–2025) | CGPA: 7.75  
+- **B.Tech,ECE** – Usha Rama College (2021–2025) | CGPA: 7.75  
 - **Intermediate, MPC** – Sri Chaitanya Junior College (2019–2021) | 84.3%  
 - **SSC** – AP Model School (2018–2019) | GPA: 7.0  
 
