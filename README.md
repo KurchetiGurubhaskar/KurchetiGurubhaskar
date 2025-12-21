@@ -22,7 +22,7 @@
 - **Frameworks & Libraries:** React,django ,Boostrap 
 - **Database:** SQL  
 - **Tools:** Git, VS code, MS Office ,
-- AI Tools :Prplexity,Gamma,Notion,Bolt,Lovable,Cursor,emegent,Replit,
+- AI Tools :Proplexity,Gamma,Notion,Bolt,Lovable,Cursor,emegent,Replit,
 - 
 
 ---
