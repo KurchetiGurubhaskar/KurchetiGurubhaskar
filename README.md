@@ -21,7 +21,7 @@
 - **Languages:** Python, HTML, CSS, JavaScript  
 - **Frameworks & Libraries:** React,django ,Boostrap 
 - **Database:** SQL  
-- **Tools:** Git, VS code, MS Office ,
+- **Tools:** Git,Github, VS code, MS Office ,
 - AI Tools :Proplexity,Gamma,Notion,Bolt,Lovable,Cursor,emegent,Replit,
 - 
 
