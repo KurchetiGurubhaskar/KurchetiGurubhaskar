@@ -4,7 +4,7 @@
 
 ![Profile Banner](https://img.shields.io/badge/Python-FullStack-blue?style=for-the-badge&logo=python)
 ![GitHub followers](https://img.shields.io/github/followers/gurubhaskar?style=social)
-![LinkedIn Badge](https://www.linkedin.com/in/gurubhaskar-kurcheti-a5a684316/)
+(https://www.linkedin.com/in/gurubhaskar-kurcheti-a5a684316/)
 
 ---
 
