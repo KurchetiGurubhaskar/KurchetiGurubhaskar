@@ -38,6 +38,95 @@
 
 ---
 
+# HireHub – Automated Recruitment & Online Proctoring Platform
+
+## 🚀 Overview
+IntelliHire is a full-stack recruitment automation platform that integrates:
+- ATS-based skill matching
+- Automated candidate shortlisting
+- Online proctored examination system
+- Email-based result notification
+
+Built using Django REST Framework and React.
+
+---
+
+## 🏗 Architecture
+
+Client (React)
+        ↓
+REST API (Django DRF)
+        ↓
+PostgreSQL Database
+        ↓
+Email & Exam Monitoring Services
+
+---
+
+## 🔥 Features
+
+- Employer job posting dashboard
+- Automated resume skill matching engine
+- Online exam with webcam monitoring
+- Tab switch auto-detection & auto submission
+- Real-time result calculation
+- Email notifications for exam & results
+- Role-based JWT authentication
+
+---
+
+## 🛠 Tech Stack
+
+Backend:
+- Python
+- Django
+- Django REST Framework
+
+Frontend:
+- React
+- HTML5
+- CSS3
+
+Database:
+- PostgreSQL
+
+Deployment:
+- Render / Cloud Platform
+
+---
+
+## 📌 API Endpoints
+
+POST /api/jobs/
+POST /api/apply/
+POST /api/exam/start/
+POST /api/exam/submit/
+GET  /api/results/
+
+---
+
+## 📸 Screenshots
+(Add project screenshots here)
+
+---
+
+## 🎥 Demo Video
+(Add YouTube/Drive link)
+
+---
+
+## ⚙ Setup Instructions
+
+```bash
+git clone https://github.com/yourusername/intellihire.git
+cd intellihire
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
+
+
+
+
 ## 💼 Experience  
 
 **Embedded Systems Intern** – *Karthikeya Software Solutions Pvt. Ltd., Tirupati*  
