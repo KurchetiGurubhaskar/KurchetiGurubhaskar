@@ -41,7 +41,7 @@
 # HireHub – Automated Recruitment & Online Proctoring Platform
 
 ## 🚀 Overview
-IntelliHire is a full-stack recruitment automation platform that integrates:
+HireHub is a full-stack recruitment automation platform that integrates:
 - ATS-based skill matching
 - Automated candidate shortlisting
 - Online proctored examination system
@@ -80,7 +80,6 @@ Email & Exam Monitoring Services
 Backend:
 - Python
 - Django
-- Django REST Framework
 
 Frontend:
 - React
@@ -118,8 +117,8 @@ GET  /api/results/
 ## ⚙ Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/intellihire.git
-cd intellihire
+git clone https://github.com/yourusername/HireHub.git
+cd Hirehub
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
