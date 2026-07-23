@@ -82,6 +82,8 @@ HireHub is a full-stack recruitment automation platform that integrates:
 
 ## 📌 Latest Repositories
 <!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
+
 ## 🚀 My Projects
 
 No projects found.
