@@ -4,7 +4,7 @@
 
 ![Profile Banner](https://img.shields.io/badge/Python-FullStack-blue?style=for-the-badge&logo=python)
 ![GitHub followers](https://img.shields.io/github/followers/gurubhaskar?style=social)
-
+![GitHub stars](https://img.shields.io/github/stars/gurubhaskar?style=social)
 
 ---
 
@@ -19,15 +19,14 @@
 ## 🛠 Skills  
 
 - **Languages:** Python, HTML, CSS, JavaScript  
-- **Frameworks & Libraries:** React,django ,Boostrap 
-- **Database:** SQL  
-- **Tools:** Git,Github, VS code, MS Office ,
-- AI Tools :Proplexity,Gamma,Notion,Bolt,Lovable,Cursor,emegent,Replit,
-- 
+- **Frameworks & Libraries:** React, Django, Bootstrap  
+- **Database:** PostgreSQL, SQL  
+- **Tools:** Git, GitHub, VS Code, MS Office  
+- **AI Tools:** Proplexity, Gamma, Notion, Bolt, Lovable, Cursor, Emergent, Replit  
 
 ---
 
-## 📂 Projects  
+## 📂 Featured Projects  
 
 ### 🔑 Decentralized Access Control with Blockchain  
 - **Role:** Developer | **Duration:** Nov 2024 – Apr 2025 | **Team Size:** 4  
@@ -38,93 +37,57 @@
 
 ---
 
-# HireHub – Automated Recruitment & Online Proctoring Platform
+### 🚀 HireHub – Automated Recruitment & Online Proctoring Platform  
 
-## 🚀 Overview
-HireHub is a full-stack recruitment automation platform that integrates:
-- ATS-based skill matching
-- Automated candidate shortlisting
-- Online proctored examination system
-- Email-based result notification
+**Overview:**  
+HireHub is a full-stack recruitment automation platform that integrates:  
+- ATS-based skill matching  
+- Automated candidate shortlisting  
+- Online proctored examination system  
+- Email-based result notification  
 
-Built using Django REST Framework and React.
+**Architecture:**  
 
----
+**Features:**  
+- Employer job posting dashboard  
+- Automated resume skill matching engine  
+- Online exam with webcam monitoring  
+- Tab switch auto-detection & auto submission  
+- Real-time result calculation  
+- Email notifications for exam & results  
+- Role-based JWT authentication  
 
-## 🏗 Architecture
+**Tech Stack:**  
+- Backend: Python, Django  
+- Frontend: React, HTML5, CSS3  
+- Database: PostgreSQL  
+- Deployment: Render / Cloud Platform  
 
-Client (React)
-        ↓
-REST API (Django DRF)
-        ↓
-PostgreSQL Database
-        ↓
-Email & Exam Monitoring Services
-
----
-
-## 🔥 Features
-
-- Employer job posting dashboard
-- Automated resume skill matching engine
-- Online exam with webcam monitoring
-- Tab switch auto-detection & auto submission
-- Real-time result calculation
-- Email notifications for exam & results
-- Role-based JWT authentication
+**API Endpoints:**  
+- `POST /api/jobs/`  
+- `POST /api/apply/`  
+- `POST /api/exam/start/`  
+- `POST /api/exam/submit/`  
+- `GET  /api/results/`  
 
 ---
 
-## 🛠 Tech Stack
+## 📊 Dynamic GitHub Stats  
 
-Backend:
-- Python
-- Django
-
-Frontend:
-- React
-- HTML5
-- CSS3
-
-Database:
-- PostgreSQL
-
-Deployment:
-- Render / Cloud Platform
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurubhaskar&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurubhaskar&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gurubhaskar&theme=radical)  
 
 ---
 
-## 📌 API Endpoints
+## 📌 Latest Repositories  
 
-POST /api/jobs/
-POST /api/apply/
-POST /api/exam/start/
-POST /api/exam/submit/
-GET  /api/results/
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gurubhaskar&repo=HireHub&theme=radical)](https://github.com/gurubhaskar/HireHub)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gurubhaskar&repo=Blockchain-Access-Control&theme=radical)](https://github.com/gurubhaskar/Blockchain-Access-Control)  
 
----
-
-## 📸 Screenshots
-(Add project screenshots here)
+*(More repositories auto‑listed on profile)*  
 
 ---
-
-## 🎥 Demo Video
-(Add YouTube/Drive link)
-
----
-
-## ⚙ Setup Instructions
-
-```bash
-git clone https://github.com/yourusername/HireHub.git
-cd Hirehub
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
-
-
-
 
 ## 💼 Experience  
 
@@ -137,7 +100,7 @@ python manage.py runserver
 
 ## 🎓 Education  
 
-- **B.Tech,ECE** – Usha Rama College (2021–2025) | CGPA: 7.75  
+- **B.Tech, ECE** – Usha Rama College (2021–2025) | CGPA: 7.75  
 - **Intermediate, MPC** – Sri Chaitanya Junior College (2019–2021) | 84.3%  
 - **SSC** – AP Model School (2018–2019) | GPA: 7.0  
 
@@ -147,7 +110,7 @@ python manage.py runserver
 
 - 📧 **Email:** gurubhaskarkurcheti@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/gurubhaskar-kurcheti-a5a684316](https://www.linkedin.com/in/gurubhaskar-kurcheti-a5a684316)  
-   
+- 🐙 **GitHub:** [github.com/gurubhaskar](https://github.com/gurubhaskar)  
 
 ---
 
