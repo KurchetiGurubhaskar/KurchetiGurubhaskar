@@ -12,9 +12,9 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Update README with repositories
-        uses: Readme-Workflows/repo-list@main
+        uses: abhisheknaiidu/profile-readme-generator@main
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           username: KurchetiGurubhaskar
           readme_path: README.md
           section_name: repos
