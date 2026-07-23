@@ -17,7 +17,15 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           username: KurchetiGurubhaskar
           readme_path: README.md
-          section_name: repos
+          start_marker: <!--START_SECTION:repos-->
+          end_marker: <!--END_SECTION:repos-->
+          max_repos: 10
+          show_description: true
+          show_language: true
+          show_stars: true
+          show_forks: true
+          commit_message: "Update README with latest repositories"
+          commit_changes: true
 
       - name: Commit changes
         run: |
