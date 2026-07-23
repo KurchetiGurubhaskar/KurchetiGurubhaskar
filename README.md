@@ -80,10 +80,11 @@ HireHub is a full-stack recruitment automation platform that integrates:
 
 ---
 
-## 📌 Latest Repositories  
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gurubhaskar&repo=HireHub&theme=radical)](https://github.com/gurubhaskar/HireHub)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gurubhaskar&repo=Blockchain-Access-Control&theme=radical)](https://github.com/gurubhaskar/Blockchain-Access-Control)  
+## 📌 Latest Repositories
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
+
 
 *(More repositories auto‑listed on profile)*  
 
