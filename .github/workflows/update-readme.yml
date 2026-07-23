@@ -3,20 +3,22 @@ name: Update README with Repos
 on:
   schedule:
     - cron: "0 0 * * *"   # runs daily at midnight
-  workflow_dispatch:
+  workflow_dispatch:       # allows manual run
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Generate Repo List
-        uses: Readme-Workflows/repo-card@main
+
+      - name: Update README with repositories
+        uses: Readme-Workflows/repo-list@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           username: KurchetiGurubhaskar
           readme_path: README.md
           section_name: repos
+
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
