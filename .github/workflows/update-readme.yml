@@ -11,13 +11,17 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Update README with repositories
-        uses: abhisheknaiidu/profile-readme-generator@main
+      - name: List repositories
+        uses: koj-co/readme-repos-list@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          username: KurchetiGurubhaskar
-          readme_path: README.md
-          section_name: repos
+          owner: KurchetiGurubhaskar
+          repo: KurchetiGurubhaskar
+          path: README.md
+          start: repos
+          end: repos
+          max: 10
+          commit-message: "Update README with latest repositories"
 
       - name: Commit changes
         run: |
